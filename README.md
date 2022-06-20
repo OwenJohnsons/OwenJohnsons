@@ -1,4 +1,8 @@
-### Hi there 👋
+### Dia dhuit 👋
+
+My name is Owen! I am an Irish astrophysicist currently working as a research assistant at the University of Berkeley in the SETI research centre! 
+
+- 🔭 I’m currently working on looking for signs of ET through techno-signature searches using low-frequency arrays (LOFAR) stations in Sweden, Ireland and France.  
 
 <!--
 **OwenJohnsons/OwenJohnsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

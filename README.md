@@ -3,7 +3,7 @@
 My name is Owen! I am an Irish astrophysicist currently working as a research assistant at the University of Berkeley in the SETI research centre! 
 
 - 👽 I’m currently working on looking for signs of ET through techno-signature searches using low-frequency arrays (LOFAR) stations in Sweden, Ireland and France.  
-- 🪐 My research interests are in the extremes of our universe. Using astronomical transients to help solve open mysteries about the cosmos. 
+- 🪐 My research interests are in the extremes of our universe. Using astronomical transients to help solve open questions about the cosmos. 
 - 🌱 I’m currently learning Julia, C and Space Mission Design 
 - 📫 The best way of reaching me is through email: owen.johnson@ucdconnect.ie
 - 😄 Pronouns: [He/Him/His] 

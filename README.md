@@ -7,7 +7,7 @@ My name is Owen! I am an Irish astrophysicist currently working as a research as
 - 🌱 I’m currently learning Julia, C and Space Mission Design 
 - 📫 The best way of reaching me is through email: owen.a.johnsons@gmail.com
 - 😄 Pronouns: [He/Him/His] 
-- ✨ BSc (Hons.) Graduate of University College Dublin in Physics with Astronomy in Space Science (Class of 22')
+- ✨ BSc (Hons.) Graduate of University College Dublin in Physics with Astronomy and Space Science (Class of 22')
 
 <!--
 **OwenJohnsons/OwenJohnsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

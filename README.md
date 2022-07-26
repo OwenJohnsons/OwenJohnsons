@@ -1,4 +1,4 @@
-### Dia dhuit 👋
+### Dia duit 👋
 
 My name is Owen! I am an Irish astrophysicist currently working as a research assistant at the University of Berkeley in the SETI research centre! 
 

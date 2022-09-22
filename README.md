@@ -4,8 +4,8 @@ My name is Owen! I am an Irish astrophysicist!
 
 - 👽 I’m currently a PhD researcher at Trinity College Dublin 
 - 🪐 My research interests are in the extremes of our universe. Using astronomical transients to help solve open questions about the cosmos. I also have a great interest in space science techknowledgy and space mission design. 
-- 🌱 I’m currently learning Julia, C and Space Mission Design 
-- 📫 The best way of reaching me is through email: owen.a.johnsons@gmail.com
+- 🌱 I’m currently learning C++, C and Space Mission Design 
+- 📫 The best way of reaching me is through email: ojohnson@tcd.ie
 - 😄 Pronouns: [He/Him/His] 
 - ✨ BSc (Hons.) Graduate of University College Dublin in Physics with Astronomy and Space Science (Class of 22')
 

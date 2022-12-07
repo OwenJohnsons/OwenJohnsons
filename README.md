@@ -16,7 +16,7 @@ My name is Owen! I am an Irish astrophysicist!
   <tr>
   <td width="100%">
   
-&nbsp; <br> [![Spotify](https://spotify-now-playing-sigma-neon.vercel.app/api/spotify?background_color=0d1117&border_color=6bd70c)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> [![Spotify](https://spotify-now-playing-sigma-neon.vercel.app/api/spotify?background_color=0d1117&border_color=6bd70c)](https://open.spotify.com/user/owenjohnsons)
 
   </td>
 </p>

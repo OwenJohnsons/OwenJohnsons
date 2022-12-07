@@ -11,7 +11,7 @@ My name is Owen! I am an Irish astrophysicist!
 - 😄 Pronouns: [He/Him/His] 
 - ✨ BSc (Hons.) Graduate of University College Dublin in Physics with Astronomy and Space Science (Class of 22')
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://owenjohnsons.vercel.app/api/spotify)](https://open.spotify.com/user/)
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=owenjohnsons&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">

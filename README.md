@@ -4,10 +4,9 @@
 
 My name is Owen! I am an Irish astrophysicist! 
 
-- 👽 I’m currently a postdoctoral researcher in Physics and Astrophysics at Caltech
-- 🪐 My research interests are in the extremes of our universe. Using astronomical transients to help solve open questions about the cosmos. I also have a great interest in space science technology and space mission design. 
-- 🌱 I’m currently learning C++, CUDA and Space Mission Design 
-- 📫 The best way of reaching me is through email: ojohnson@tcd.ie
+- 👽 I’m currently a postdoctoral researcher in Radio Astronomy at Caltech
+- 🪐 My research interests are in the extremes of our universe. I use astronomical transients to help answer open questions about the cosmos. I'm also interested in instrumentation and space mission design. 
+- 📫 The best way of reaching me is through email: ojohnson@caltech.edu 
 - ✨ PhD Graduate of Trinity College Dublin in Physics and Astrophysics (Class of 26')
 - ✨ BSc (Hons.) Graduate of University College Dublin in Physics with Astronomy and Space Science (Class of 22')
 
